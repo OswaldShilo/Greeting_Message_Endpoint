@@ -24,6 +24,14 @@ A FastAPI-based dynamic greeting service with multilingual support, time awarene
 
 ---
 
+
+### Live Endpoint 🌐
+
+Deployed on Render:  
+**https://greeting-message-endpoint.onrender.com**
+
+---
+
 ## Features ✅
 
 - Dynamic, time-based greetings
@@ -225,14 +233,7 @@ Enabled for all domains.
 * Efficient timezone logic
 * Minimal dependencies
 * Horizontal scaling ready
-
----
-
-### Live Endpoint 🌐
-
-Deployed on Render:  
-**https://greeting-message-endpoint.onrender.com**
-
+  
 ---
 
 ## License
