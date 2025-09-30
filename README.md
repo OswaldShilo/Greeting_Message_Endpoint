@@ -228,6 +228,13 @@ Enabled for all domains.
 
 ---
 
+### Live Endpoint 🌐
+
+Deployed on Render:  
+**https://greeting-message-endpoint.onrender.com**
+
+---
+
 ## License
 
 MIT License ✅
