@@ -1,6 +1,6 @@
 # Dynamic Greeting Message API
 
-A Flask web service that provides personalized greeting messages based on time of day, timezone, and language preferences. Perfect for deployment on Render or any cloud platform.
+A RESTful API service that generates personalized, context-aware greeting messages based on user-provided parameters and real-time contextual data (such as time of day and timezone). Built with Flask for easy deployment on any cloud platform.
 
 ## Features
 
